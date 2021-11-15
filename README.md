@@ -1,5 +1,5 @@
 # "Found" - Blath team - ZooHackathon VN 2021
-"Found"'s functions sources code.
+_**"Found"'s functions sources code.**_
 Blath team - ZooHackathon VN 2021.
 
 ## BACKEND
@@ -52,9 +52,9 @@ Blath team - ZooHackathon VN 2021.
 
 ### Online Report
 - Include three main attributes:
-  - The online platform 
-  - The content of the report
-  - The object that the report is reported.
+  **- The online platform **
+  **- The content of the report**
+  **- The object that the report is reported.**
 - There are two ways to report something online:
   - From a screenshot
   - From a url
